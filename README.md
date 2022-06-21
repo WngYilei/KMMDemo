@@ -75,3 +75,8 @@ shared中，由common中进行接口定义，然后由androidMain和iosMain分�
 
 
 
+参考项目：
+1.https://github.com/Kotlin/kmm-production-sample.git
+2.https://github.com/icerockdev/moko-template.git
+
+
